@@ -6,7 +6,8 @@ The repository contains multiple Jupyter Notebooks exploring different machine l
 
 ---
 
-[certificates_3171_1788179475.pdf](https://github.com/user-attachments/files/31646555/certificates_3171_1788179475.pdf)
+![Uploading Screenshot 2026-08-31 at 6.48.31 PM.png…]()
+
 
 
 ---
