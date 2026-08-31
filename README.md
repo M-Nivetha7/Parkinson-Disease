@@ -13,7 +13,7 @@ The repository contains multiple Jupyter Notebooks exploring different machine l
 
 ---
 
-[Machine-Learning-Approaches-For-Parkinson-s-Disease-Detection-And-Severity-Prediction-Using-Voice-Biomarkers--A-Comprehensive-Analysis.pdf](https://github.com/user-attachments/files/31646545/Machine-Learning-Approaches-For-Parkinson-s-Disease-Detection-And-Severity-Prediction-Using-Voice-Biomarkers--A-Comprehensive-Analysis.pdf)
+https://www.ijsrtjournal.com/article/machine-learning-approaches-for-parkinson-s-disease-detection-and-severity-prediction-using-voice-biomarkers-a-comprehensive-analysis
 
 ---
 
