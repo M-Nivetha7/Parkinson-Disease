@@ -6,6 +6,16 @@ The repository contains multiple Jupyter Notebooks exploring different machine l
 
 ---
 
+[certificates_3171_1788179475.pdf](https://github.com/user-attachments/files/31646555/certificates_3171_1788179475.pdf)
+
+
+---
+
+[Machine-Learning-Approaches-For-Parkinson-s-Disease-Detection-And-Severity-Prediction-Using-Voice-Biomarkers--A-Comprehensive-Analysis.pdf](https://github.com/user-attachments/files/31646545/Machine-Learning-Approaches-For-Parkinson-s-Disease-Detection-And-Severity-Prediction-Using-Voice-Biomarkers--A-Comprehensive-Analysis.pdf)
+
+---
+
+
 ## 📌 Project Overview
 
 Parkinson's Disease (PD) is a progressive neurological disorder that affects movement, speech, handwriting, and other motor functions.
