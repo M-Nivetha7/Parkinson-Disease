@@ -6,7 +6,8 @@ The repository contains multiple Jupyter Notebooks exploring different machine l
 
 ---
 
-![Uploading Screenshot 2026-08-31 at 6.48.31 PM.png…]()
+<img width="916" height="609" alt="Screenshot 2026-08-31 at 6 48 31 PM" src="https://github.com/user-attachments/assets/d155d7e4-8cf2-4a6f-82c8-db45be55196e" />
+
 
 
 
